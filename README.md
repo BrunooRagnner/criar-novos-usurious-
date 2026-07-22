@@ -1,3 +1,23 @@
+
+A última senha do admin que apareceu nos logs foi:
+
+```
+⚠️ ADMIN CRIADO COM SENHA: 4rF1qSst2Ds
+```
+
+Portanto, tente:
+
+- **Email:** `admin@sistema.com`
+- **Senha:** `4rF1qSst2Ds`
+
+Caso não funcione, execute no terminal para ver a senha mais recente:
+
+```bash
+fly logs | grep "ADMIN CRIADO COM SENHA"
+```
+
+Se quiser **resetar a senha** manualmente, posso gerar um código para você rodar no backend. Só me avise! 🚀
+
 # criar-novos-usurious-
 criar-novos usurious 
 criar-novos usurious ## 🔑 Como alterar a senha do admin
